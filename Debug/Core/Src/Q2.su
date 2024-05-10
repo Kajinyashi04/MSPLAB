@@ -1,0 +1,11 @@
+Q2.c:52:6:Q2	8	static
+Q2.c:71:6:Q3	4	static
+Q2.c:74:6:display7SEG	16	static
+Q2.c:183:5:main	8	static
+Q2.c:229:6:SystemClock_Config	72	static
+Q2.c:265:13:MX_TIM2_Init	32	static
+Q2.c:310:13:MX_GPIO_Init	32	static
+Q2.c:347:6:clearLed	8	static
+Q2.c:352:6:enablePin	16	static
+Q2.c:355:6:HAL_TIM_PeriodElapsedCallback	16	static
+Q2.c:369:6:Error_Handler	4	static,ignoring_inline_asm
